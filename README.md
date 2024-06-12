@@ -1,5 +1,8 @@
 ##  Centauri: Trustless Bridging Protocol
 
+
+## Understanding of Niteesh
+
 This is the concrete implementation of the centauri bridging protocol, based on IBC, Powered by light clients.
 
 ###     [beefy-light-client](algorithms/beefy/verifier/src/lib.rs)
